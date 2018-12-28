@@ -1,0 +1,18 @@
+Package: tidytlogl
+Type: Package
+Title: Log-Likelihood for Tidy Text Mining
+Version: 0.1.0
+Author: Zev Youra
+Maintainer: Zev Youra <zevyoura@gmail.com>
+Description: Computes log-likelihood values for tokens or ngrams of text.
+    This package is a re-implementation of @walkerkq's tmLogL package using
+    dplyr, which fits into a tidy text mining workflow.
+    See https://github.com/walkerkq/textmining_southpark for more context, and
+    a good explanation of how this works.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+    magrittr,
+    dplyr
