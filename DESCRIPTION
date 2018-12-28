@@ -16,3 +16,5 @@ RoxygenNote: 6.1.1
 Imports: 
     magrittr,
     dplyr
+URL: https://github.com/zzzev/tidytlogl
+BugReports: https://github.com/zzzev/tidytlogl/issues
